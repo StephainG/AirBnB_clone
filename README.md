@@ -1,5 +1,6 @@
 AirBnB Clone Project
 ![AirBnb Clone](Screenshot_20221125_070856.png)
+<<<<<<< HEAD
 
 # Project Description
 
@@ -35,3 +36,5 @@ This instruction will guide you on how to get this project up and running on you
 
 # Installing
 You will need to clone the repository of the project from Github. This will contain the command line program and all of its dependencies.
+=======
+>>>>>>> 6220f2bd132708c5ef2fe235005adbe664a2cd42
