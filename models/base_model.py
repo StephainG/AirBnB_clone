@@ -5,6 +5,7 @@ import uuid
 from datetime import datetime
 from models import storage
 
+
 class BaseModel:
 
     """Class from which all other classes will inherit"""
@@ -52,4 +53,3 @@ class BaseModel:
         my_dict["created_at"] = my_dict["created_at"].isoformat()
         my_dict["updated_at"] = my_dict["updated_at"].isoformat()
         return my_dict
-
